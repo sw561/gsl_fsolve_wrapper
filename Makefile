@@ -20,4 +20,4 @@ $(EXECUTABLE): $(OBJECTS)
 	$(CC) -MM $< > $*.d
 
 clean:
-	rm -f *.o *.d $(EXECUTABLE) *_test
+	rm -f *.o *.d $(EXECUTABLE) *_test *.pyc
