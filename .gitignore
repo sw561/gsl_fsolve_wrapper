@@ -1,0 +1,15 @@
+*.o
+main
+*_test
+*.pyc
+*.auto
+*.d
+*input
+*out*
+*.png
+*.swp
+parameter.*
+program.py
+generate.py
+test.h
+test.cpp
